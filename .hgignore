@@ -1,0 +1,3 @@
+syntax: glob
+static/btype/*
+admin/

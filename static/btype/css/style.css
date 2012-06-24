@@ -1,0 +1,174 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+#title_container
+{
+    width:100%;
+
+}
+
+#title_img {
+    border: 1px solid #CCC;
+    margin:0 0 5px 150px;
+}
+
+#wrapper
+{
+    width: 915px;
+    margin: 20px 10% 0 10%;
+    font-weight: normal; 
+    font-style: normal;
+    line-height:normal; 
+    font-family: 'Trebuchet', 'Arial', sans-serif;
+}
+#game_container
+{
+    height: auto;
+    margin-bottom: 20px;
+    float:left;
+    width:528px;
+    padding: 10px;
+    overflow: auto;
+    border: 1px solid #CCC;
+}
+
+#footer
+{
+    float:left;
+    margin-left:150px;
+    border: 1px solid #CCC;
+    padding: 10px;
+}
+
+#game_display {
+    padding: 15px;
+}
+
+#score 
+{
+    width:190px;
+    float:left;
+    padding:5px;
+    margin-bottom:10px;
+}
+#left_sidebar_container
+{
+    width: 150px;
+    float:left;
+}
+    #right_sidebar_container
+{
+    width: 200px;
+    float:right;
+    margin-bottom:10px;
+    padding:0 5px;
+    overflow: auto;
+    font-size: small;
+}
+.green-border {
+    border:1px solid green;
+}
+
+.red-border {
+    border:1px solid red;
+}
+
+.last_choice_container
+{
+    width: 190px;
+    float:left;
+    padding: 5px 5px 5px 0;
+    margin: 0;
+}
+
+.wrong_choice_container {
+    width:120px;
+    float:left;
+    padding: 10px;
+    margin 10px;
+    border: 1px solid #CCC;
+    font-size:small;
+}
+
+.last_choice_img_cont > .letter_img
+{
+    float:left;
+    margin: 5px 5px 5px 0;
+    border:1px solid #CCC;
+}
+
+.wrong_choice_img_cont {
+    float: left;
+}
+
+.wrong_choice_img_cont > .letter_img
+{
+    float:left;
+    margin: 5px 5px 5px 0;
+    border:1px solid #CCC;
+}
+
+.last_choice_name
+{
+    float:left;
+    margin: 0 0 0 5px;
+    padding:5px 0;
+}
+
+/* 
+ * Style the images of letters
+ */
+
+#game_container .letter_image {
+    border:1px solid #CCC;
+    margin:10px;
+}
+#game_container .letter_image:hover {
+    border:1px solid gray;
+}
+
+#sidebar_container .letter_image {
+    border:1px solid green;
+}
+
+
+/*
+ * Character styles
+ */
+
+h1 {
+    font-size:1.8em;
+    padding:0 0 10px 0;
+}
+
+h3 {
+   font-size: 1.1em:
+   padding:0 0 10px 0; 
+}
+
+h4 {
+    font-size:.8em;
+    font-style:italic;
+    padding:0 0 10px 0;
+    margin-below:10px;
+}
+
+em {
+    font-style:italic;
+}
+.small {
+    font-size:.7em;
+}
+.link {
+    font-size:.8em;
+}
+.home-links {
+    padding:5px;
+    margin5px;
+}
+.link:hover {
+    color:red;
+}
+

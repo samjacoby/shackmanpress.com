@@ -1,0 +1,17 @@
+AddHandler fcgid-script .fcgi
+Options +FollowSymLinks
+
+RewriteEngine On                              
+
+RewriteCond %{REQUEST_URI} /typefaces [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^typefaces(.*)$ cgi-bin/dispatch-typefaces.fcgi/$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI} /katran [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^.*[^/]$ /$0/ 
+RewriteRule ^katran/(.*)$ cgi-bin/dispatch-katran.fcgi/$1 [QSA,L]
+
+RewriteCond %{REQUEST_URI} /test [NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^test(.*)$ cgi-bin/dispatch-test.fcgi/$1 [QSA,L]
