@@ -71,7 +71,8 @@ include 'templates/header.php';
     <p> <span class="small-light">Or the time-tested, classy, slow, and unreliable way.</span><br>
     <span class="small-dark">Shackman Press</span><br><span class="small-light">56 School St. #2<br>Somerville, MA 02143</span></p>
 <span style="margin-top:5px;" class="end-rule"></span>
-        <p>Shackman Press is a smallish outfit and we like it that way. For a year or so, we happily labored in <em>Deutschland</em> (how history twists and turns)&mdash;first at the <em>Druckladen</em> of the <a href="http://www.gutenberg-museum.de/" target="_blank">Gutenberg Museum</a> in Mainz, and then in Berlin, because, well, that's just what you do.</p><p>The real base of operations, though, is dear <strike>Cambridge</strike> Somerville, Massachusetts, the cradle of liberty, which has been an off-and-on again home for some time now. Though this is a largely analog operation, we're at least as familiar with <a href="http://en.wikipedia.org/wiki/Turing_machines" target="_blank">Turing Machines</a> as we are with Vandercooks.</p><p>These days, we've taken to spending our time at the <a href="media.mit.edu">Media Lab.</a> Surprisingly bookish, in its way.</p> 
+        <p class="small-dark">About Us</p>
+        <p>Shackman Press is a smallish outfit and that's unlikely to change. For a year or so, we happily labored in <em>Deutschland</em> (how history twists and turns)&mdash;first at the <em>Druckladen</em> of the <a href="http://www.gutenberg-museum.de/" target="_blank">Gutenberg Museum</a> in Mainz, and then in Berlin, because, well, that's just what you do.</p><p>The real base of operations, though, has always been dear <strike>Cambridge</strike> Somerville, Massachusetts, the cradle of liberty, higher education, and all the rest&mdash;which has been an off-and-on again home for some time now.</p><p>Though this is a largely analog operation, we're at least as familiar with <a href="http://en.wikipedia.org/wiki/Turing_machines" target="_blank">Turing Machines</a> as we are with Vandercooks.</p><p>These days, we're spending most of our time at the <a href="http://media.mit.edu">Media Lab.</a> Surprisingly bookish, in its way.</p> 
     </div>
         <!-- left content column -->
         <div id="left">
@@ -96,65 +97,100 @@ include 'templates/header.php';
 			?>
         </div>
         <div id="center">
-            <h3 class='highlight'>A New Book from Shackman Press</h3>
+<img style="float:right;" src="imgs/new_book.png"/>
            <em>Delmore Schwartz</em><br />
         <span class="book-title">In Dreams Begin Responsibilities</span><br />
 			Afterword by Morris Dickstein<br />
 			Drawings by Linn Meyers<br />
     <p>
-We're staggeringly delighted to announce the publication of <em>In Dreams Begin Responsibilities</em>. Hand-printed from lead types and hand-bound in custom pastepapers in an edition of sixty, this is our homage to this dark-star of American letters, with an accompanying afterword by <a href="http://morrisdickstein.com">Morris Dickstein</a> and elaborate drawings by <a href="http://linnmeyers.com">Linn Meyers</a>. <a href="http://sarahcreighton.com">Sarah Creighton</a> bound 60 books, 45 of which are offered for sale in standard and deluxe editions <a href="#buy-schwartz">below</a>. 
+We're staggeringly delighted to announce the publication of <em>In Dreams Begin Responsibilities</em> by Delmore Schwartz, a classic short story first published in 1937. Hand-printed from metal types and hand-bound in custom pastepapers, this is our homage to this dark-star of American letters. Accompanied by an original afterword by <a href="http://morrisdickstein.com">Morris Dickstein</a> and elaborate drawings by <a href="http://linnmeyers.com">Linn Meyers</a>. <a href="http://sarahcreighton.com">Sarah Creighton</a> bound 60 books, 45 of which are offered for sale in standard and deluxe editions.
 </p>
-            <img class="border" src="imgs/full_schwartz/meyers_drawing_02.jpg" alt="Detail of Linn Meyers drawing."/><br /> <span class="photo-caption small-light">Detail from Linn Meyer's intricate ink drawings.</span> 
-
-        <p>
-In 1937, a young writer lead the first issue of the newly-reborn Partisan Review, with a short, powerful story that was to become one of the classic pieces to appear in the magazine. “In Dreams Begin Responsibilities” was an immediate sensation, and Delmore Schwartz, then just 24, was crowned one of America's rising literary stars; critics crowed of the arrival of a major new talent, and Schwartz himself, charismatic and handsome, had the magnetic, breezy confidence of genius. 
-        </p>
-        <p>"In Dreams Begin Responsibilities" was a high-point of his career. Though Schwartz wrote for <em>The New Republic</em> and <em>The Partisan Review</em> for many more years, he struggled with alcohol and barbituates. As poet, teacher, and critic&mdash;ricocheting between universities and New York flophouses--Schwartz played troubled muse to a generation of writers and artists. His early fame and premature death, are somber testament to the challenges of summoned by great talent and great ambition.
-</p>
-            <img class="border" src="imgs/full_schwartz/schwartz_title.jpg" alt="In Dreams Begin Responsibilities, title spread."/><br /> <span class="photo-caption small-light"><em>In Dreams Begin Responsibilities</em>, title spread.</span>
-<p id="buy-schwartz">
-Hand-printed on Mohawk Superfine paper on a Vandercook Universal III in Florence, Massachusetts. 
-
-The body text is Monotype Bembo, set by Michael & Winifred Bixler of Skaneatles, New York—the titling is ATF 20th Century, cast by Swamp Press. 
-</p>
-<p>
-<a href="">Sarah Creighton</a> bound sixty copies in original paste papers in her Easthampton, Massachusetts studio, of which forty-five are made available for sale. Of that edition, fifteen deluxe books are bound in stamped green-leather spines, and come in a cloth chemise with a magnetic closure. All copies are hand-numbered, and signed by Morris Dickstein and Linn Meyers. 36 pp. 7&frac14; &times; 10;"</p>
         <div class="payme" >
         
         <table>
             <tr>
             <td>
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="KKWYXCH5F5SCY">
-                <input type="image" src="http://shackmanpress.com/includes/buy.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                </form>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="LPQZHMJ6YP5D8">
+<input type="image" src="http://shackmanpress.com/includes/buy.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
             </td>
-            <td><span class="small-dark">$190 <em>via</em> paypal, standard edition.<span></td>
+            <td><span class="small-dark">$210 <em>via</em> paypal, standard, edition of 30. USA postpaid.<span></td>
             </tr>
             <tr>
                 <td>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="KLVBG76562374">
+<input type="hidden" name="hosted_button_id" value="CWQED67ZTZ4SS">
+<input type="image" src="http://shackmanpress.com/includes/buy.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+    </td>
+            <td><span class="small-dark">$475, leather-spined deluxe in cloth chemise, edition of 15. USA postpaid.<span></td>
+                </td>
+            </tr>
+        </table>
+        </div>
+<br />
+            <img class="border" src="imgs/full_schwartz/schwartz_title.jpg" alt="In Dreams Begin Responsibilities, title spread."/><br /> <span class="photo-caption small-light"><em>In Dreams Begin Responsibilities</em>, title spread.</span>
+
+        <p>
+In 1937, a young writer lead the first issue of the newly-reborn <em>Partisan Review</em>, with a short, powerful story that was to become one of the classic pieces to appear in the magazine. “In Dreams Begin Responsibilities” was an immediate sensation, and Delmore Schwartz, then just 24, was crowned one of America's rising literary stars; critics crowed of the arrival of a major new talent, and Schwartz himself, charismatic and handsome, had the magnetic, breezy confidence of genius. 
+        </p>
+        <p>"In Dreams Begin Responsibilities"&mdash;and the subsequent story collection organized around it&mdash; was the high-point of his career. Though Schwartz wrote throughout his life, he struggled with alcohol and barbituates. As poet, teacher, and critic&mdash;ricocheting between universities and New York flophouses&mdash;Schwartz played an increasingly-troubled muse to a generation of writers and artists. His early fame and premature death are somber testament to the challenges brought by great talent and great ambition.
+</p>
+            <img class="border" src="imgs/full_schwartz/meyers_drawing_02.jpg" alt="Detail of Linn Meyers drawing."/><br /> <span class="photo-caption small-light">Detail from Linn Meyer's intricate ink drawings.</span> 
+<p id="buy-schwartz">
+Hand-printed on Mohawk Superfine paper on a Vandercook Universal IV in Florence, Massachusetts. 
+
+The body text is Monotype Bembo, set by Michael & Winifred Bixler of Skaneatles, New York—the titling is Monotype 20th Century cast by Swamp Press. 
+</p>
+            <img class="border" src="imgs/full_schwartz/creighton_papers.jpg" alt="Detail from cover pastepapers."/><br /> <span class="photo-caption small-light"><em>Bound in pastepapers over boards.</span>
+<p>
+<a href="">Sarah Creighton</a> bound 60 copies in original paste papers in her Easthampton, Massachusetts studio, of which 45 are made available for sale. Of that edition, 15 deluxe books are bound in distinctive pastepapers with stamped green-leather spines, and come in a cloth chemise with magnetic closure. All copies are hand-numbered, and signed by Morris Dickstein and Linn Meyers. 36 pp. 7&frac14; &times; 10".</p>
+        <div class="payme" >
+        
+        <table>
+            <tr>
+            <td>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="LPQZHMJ6YP5D8">
+<input type="image" src="http://shackmanpress.com/includes/buy.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+            </td>
+            <td><span class="small-dark">$210 <em>via</em> paypal, standard, edition of 30. USA postpaid.<span></td>
+            </tr>
+            <tr>
+                <td>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="CWQED67ZTZ4SS">
 <input type="image" src="http://shackmanpress.com/includes/buy.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
     </td>
-            <td><span class="small-dark">$475 <em>via</em> paypal, leather-spined deluxe edition in cloth chemise.<span></td>
+            <td><span class="small-dark">$475 <em>via</em> paypal, leather-spined deluxe in cloth chemise. 1 of 15. USA postpaid.<span></td>
                 </td>
             </tr>
         </table>
         </div>
 <h3>About the Contributors</h3>
 <p>
-<span class="small-dark">Morris Dickstein</span><br/>
-Morris Dickstein is Professor of English at the City University of New York. He has written extensively on modern literature, and was a contributing editor at Partisan Review for some thirty years. Among much else, he is the author of Dancing in the Dark: A Cultural History of the Great Depression, Norton, 2010. 
+<span class="small-dark" id="dickstein">Morris Dickstein</span><br/>
+<a href="http://morrisdickstein.com">Morris Dickstein</a> is Professor of English at the City University of New York. He has written extensively on modern literature, and was a contributing editor at Partisan Review for some thirty years. Among much else, he is the author of <em>Dancing in the Dark: A Cultural History of the Great Depression</em>, Norton, 2010. 
 </p>
 <p>
-<span class="small-dark">Linn Meyers</span><br />
-Linn Meyers—presently a Washington, DC-based artist—holds a BFA from Cooper Union and an MFA from the California College of the Arts. Her work has been shown at the The Hammer Museum, Los Anglees; Margaret Thatcher Projects, New York City; Morgan Lehman, New York City; The Phillips Collection, Washington, DC; The Tokyo Metropolitan Museum of Art, Japan; The Corcoran Museum of Art, Washington DC; and Paris Concret, among others. She is well-known for her temporary site-specific large-scale drawings. 
+<span class="small-dark" id="meyers">Linn Meyers</span><br />
+<a href="http://linnmeyers.com">Linn Meyers</a>&mdash;presently a Washington, DC-based artist&mdash;holds a BFA from Cooper Union and an MFA from the California College of the Arts. Her work has been shown at the The Hammer Museum, Los Angeles; Margaret Thatcher Projects, New York City; Morgan Lehman, New York City; The Phillips Collection, Washington, DC; The Tokyo Metropolitan Museum of Art, Japan; The Smithsonian American Art Museum, Washington DC; and Paris Concret, Paris, France, among others. She is well-known for her temporary site-specific large-scale drawings.
+
 </p>
 
 
