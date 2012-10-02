@@ -149,7 +149,7 @@ Hand-printed on Mohawk Superfine paper on a Vandercook Universal IV in Florence,
 
 The body text is Monotype Bembo, set by Michael & Winifred Bixler of Skaneatles, New York—the titling is Monotype 20th Century cast by Swamp Press. 
 </p>
-            <img class="border" src="imgs/full_schwartz/creighton_papers.jpg" alt="Detail from cover pastepapers."/><br /> <span class="photo-caption small-light"><em>Bound in pastepapers over boards.</span>
+            <img class="border" src="imgs/full_schwartz/creighton_papers.jpg" alt="Detail from cover pastepapers."/><br /> <span class="photo-caption small-light"><em>Bound in pastepapers over boards.</em></span>
 <p>
 <a href="">Sarah Creighton</a> bound 60 copies in original paste papers in her Easthampton, Massachusetts studio, of which 45 are made available for sale. Of that edition, 15 deluxe books are bound in distinctive pastepapers with stamped green-leather spines, and come in a cloth chemise with magnetic closure. All copies are hand-numbered, and signed by Morris Dickstein and Linn Meyers. 36 pp. 7&frac14; &times; 10".</p>
         <div class="payme" >
@@ -254,9 +254,8 @@ The body text is Monotype Bembo, set by Michael & Winifred Bixler of Skaneatles,
  <p>We’re thrilled to announce the publication of <em>Easter Week</em>, a collection of new Anton Chekhov translations and engravings.  Two stories, “The Student," Chekhov’s own favorite, and “On Easter Eve,” appear in a superb new translation by <a href="http://www.humnet.ucla.edu/humnet/slavic/faculty/heim_m.html" target="_blank">Michael Henry Heim.</a> Both stories, as well as an accompanying letter, are illustrated with original engravings by <a href="http://www.moser-pennyroyal.com/" target="_blank">Barry Moser.</a></p>
 <a rel="prettyPhoto" title="Ieronim, from <em>On Easter Eve</em> and <em>The Student</em>, both by Barry Moser." style="border:none;hover:none;" href="imgs/full_chekhov/ieronim-and-student.moser.chekhov.shackman.gif"><img  style="border:none;" src="imgs/full_chekhov/ieronim.student.chekhov.gif" alt=""></a>
            <span style="margin-bottom:9px; margin-top:0px;" class="small-light">Ieronim, from <em>On Easter Eve</em> and <em>The Student</em> from <em>Easter Week</em>. Engravings by Barry Moser</span>
-<p><em>Easter Week</em> was hand-printed on the “Edwina Ellis” make of Zerkall paper from Dante types cast by <a href="http://www.mwbixler.com" target="_blank">Michael & Winifred Bixler. </a><a href="http://www.sarahcreighton.com/" target="_blank">Sarah Creighton</a> is binding 110 books in cloth, of which <span style="text-decoration: line-through;">95</span> 40<span style="text-color:red;">*</span> are offered for sale at $200. An additional ten copies, lettered A-J, are bound in full leather and include three signed stand-alone prints. All copies are signed by the translator and artist.</p><p>A downloadable PDF prospectus is available <a target="_blank" href="includes/pdf/chekhov.shackman.prospectus.pdf" >here</a>.<br></p>
+<p><em>Easter Week</em> was hand-printed on the “Edwina Ellis” make of Zerkall paper from Dante types cast by <a href="http://www.mwbixler.com" target="_blank">Michael & Winifred Bixler. </a><a href="http://www.sarahcreighton.com/" target="_blank">Sarah Creighton</a> is binding 50 books in cloth, of which </span> 40<span style="text-color:red;">*</span> are offered for sale. An additional ten copies, lettered A-J, are bound in full leather and include three signed stand-alone prints. All copies are signed by the translator and artist.</p><p>A downloadable PDF prospectus is available <a target="_blank" href="includes/pdf/chekhov.shackman.prospectus.pdf" >here</a>.<br></p>
 <p>Regretfully, this book is out-of-print.</p>
-<p class="small-light"><strong>*</strong>Note the edition-size revision.</p>
 
 <br>
             <span class="end-rule"></span> 
