@@ -1,18 +1,3 @@
-<?php 
-if($_SERVER['SERVER_NAME'] != 'shackmanpress.local') {
-	session_start();
-	include realpath('includes/php/mysql.authentication.php');
-	$date = gmdate("'Y-m-d'");
-	$db = db_connect();
-	$user = new User($db);
-	
-	if(isset($_GET['logout'])) {
-		$user->removeCookie();
-		session_destroy();
-		header("Location: index.php");
-	}
-}
-?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
