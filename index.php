@@ -54,7 +54,7 @@ include 'templates/header.php';
 	<p> <span class="small-light">The personable (but brave!) way.</span><br>
         <span class="small-dark">T. (310) 795-6302</span></p>
     <p> <span class="small-light">Or the time-tested, classy, slow, and unreliable way.</span><br>
-    <span class="small-dark">Shackman Press</span><br><span class="small-light">56 School St. #2<br>Somerville, MA 02143</span></p>
+    <span class="small-dark">Shackman Press</span><br><span class="small-light">202 Pearl St. #3<br>Somerville, MA 02145</span></p>
 <span style="margin-top:5px;" class="end-rule"></span>
         <p class="small-dark">About Us</p>
         <p>Shackman Press is a smallish outfit and that's unlikely to change. For a year or so, we happily labored in <em>Deutschland</em> (how history twists and turns)&mdash;first at the <em>Druckladen</em> of the <a href="http://www.gutenberg-museum.de/" target="_blank">Gutenberg Museum</a> in Mainz, and then in Berlin, because, well, that's just what you do.</p><p>The real base of operations, though, has always been dear <strike>Cambridge</strike> Somerville, Massachusetts, the cradle of liberty, higher education, and all the rest&mdash;which has been an off-and-on again home for some time now.</p><p>Though this is a largely analog operation, we're at least as familiar with <a href="http://en.wikipedia.org/wiki/Turing_machines" target="_blank">Turing Machines</a> as we are with Vandercooks.</p><p>These days, we're spending most of our time at the <a href="http://media.mit.edu">Media Lab.</a> Surprisingly bookish, in its way.</p> 
